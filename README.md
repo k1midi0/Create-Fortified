@@ -6,6 +6,10 @@
 
 [kjs文件](https://github.com/k1midi0/kubejs)
 
+[TACZ的资产及配置文件](https://github.com/k1midi0/tacz)
+
+[主要配置文件](https://github.com/k1midi0/config)
+
 
 ---
 

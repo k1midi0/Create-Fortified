@@ -4,6 +4,8 @@
 
 [mods列表及说明](https://github.com/k1midi0/mod-)
 
+[kjs文件](https://github.com/k1midi0/kubejs)
+
 
 ---
 
